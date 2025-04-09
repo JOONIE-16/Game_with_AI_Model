@@ -1,0 +1,14 @@
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\bin\Debug\Game_with_AI_Model.exe.config
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\bin\Debug\Game_with_AI_Model.exe
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\bin\Debug\Game_with_AI_Model.pdb
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\obj\Debug\Game_with_AI_Model.csproj.AssemblyReference.cache
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\obj\Debug\Game_with_AI_Model.csproj.CoreCompileInputs.cache
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\obj\Debug\Game_with_AI_Model.exe
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\obj\Debug\Game_with_AI_Model.pdb
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\bin\Debug\StoryLibrary.dll
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\bin\Debug\TakeshiStoryLibrary.dll
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\bin\Debug\YukiStoryLibrary.dll
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\bin\Debug\StoryLibrary.pdb
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\bin\Debug\TakeshiStoryLibrary.pdb
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\bin\Debug\YukiStoryLibrary.pdb
+C:\Users\equipo\source\repos\Game_with_AI_Model\Game_with_AI_Model\obj\Debug\Game_wit.DF370586.Up2Date
